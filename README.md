@@ -128,8 +128,7 @@ Used to design upselling and cross-selling strategies.
 ## Tech Stack
 Power BI for visualization  
 DAX for data modeling  
-Excel/SQL for data preprocessing 
-Figma 
+Excel/SQL for data preprocessing
 
 ---
 
